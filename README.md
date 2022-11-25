@@ -23,14 +23,18 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
- ### $\textcolor{red}{Do\ not\ forget\ to\ import}$
+ ### $\textcolor{red}{Do\ not\ forget\ to\ import!}$
 
-```
+```ruby
 import * as web3 from '@solana/web3.js'
 
 ```
 
 ![image](https://user-images.githubusercontent.com/109158340/203975063-6947bfbd-9f71-417f-a158-1668ce5cff35.png)
+
+### $\colorbox{green}{{\color{white}{And\ we're\ done! }}}$   
+
+-If you paste in an address here, you'll see the balance. Make sure your account has devnet SOL on it! 
 
  ## $\colorbox{green}{{\color{white}{Deploy\ on\ Vercel}}}$    
 
